@@ -42,16 +42,6 @@ Veriler `yfinance` kütüphanesi aracılığıyla [Yahoo Finance](https://financ
 | Petrol  | CL=F       | WTI Ham Petrol (Vadeli)       |
 | Tarih   | 2018–2025  | Günlük kapanış fiyatları      |
 
----
-
-## 📈 Sonuç ve Bulgular
-
-- En yüksek getiri genellikle BTC ve ETH tarafından sağlanmıştır.
-- Altın, istikrarlı ama düşük riskli performans göstermiştir.
-- BTC ve ETH arasında güçlü pozitif korelasyon vardır (ρ ≈ 0.80+).
-- Altın ve Petrol ile olan korelasyonlar zayıf–orta düzeyde ve dönemsel değişkendir.
-- Rolling korelasyon analizleri, kriz dönemlerinde geçici yakınsama göstermiştir.
-
 
 ---
 
